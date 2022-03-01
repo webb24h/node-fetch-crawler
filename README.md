@@ -30,7 +30,7 @@ A list of domains stored in your database
 
     sudo apt install postgresql
 
-
+> Notes : for more details on how to install Postgres and run a server read good tutorial on StackOverflow <a href="https://stackoverflow.com/questions/53267642/create-new-local-server-in-pgadmin/66489652#66489652"> here </a>
 
 <h3> Getting Started </h3>
 

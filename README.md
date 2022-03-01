@@ -11,15 +11,20 @@ A list of domains stored in your database
 
 <h3> Libraries </h3>
 
-    - Node
     - Node-Fetch
+    - Cheerio
     - Postgres
 
 
 <h3> Install Node-Fetch </h3>
 
     npm install node-fetch
+    
 
+<h3> Install Cheerio </h3>
+
+    npm install cheerio
+    
 
 <h3> Install Postgres </h3>
 
